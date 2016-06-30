@@ -1,0 +1,22 @@
+{
+  "name": "miniport-tanya",
+  "version": "1.0.0",
+  "description": "***https://html5up.net/miniport***",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/students-org/miniport-tanya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/students-org/miniport-tanya/issues"
+  },
+  "homepage": "https://github.com/students-org/miniport-tanya#readme"
+}
