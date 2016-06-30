@@ -6,6 +6,6 @@
 
 1. Run `npm install` to install server dependencies.
 
-2. Run `jade views/index.jade -o ./ -w` for build and watch changes in views.
+2. Run `jade pages/index.jade -o ./ -w` for build and watch changes in views.
 
-3. Run `stylus styles/main.styl -o style.css -m -w` for build and watch changes in styles.
+3. Run `stylus pages/main.styl -o style.css -w -m` for build and watch changes in styles.
